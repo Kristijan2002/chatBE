@@ -1,10 +1,3 @@
-/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.csproj.AssemblyReference.cache
-/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.GeneratedMSBuildEditorConfig.editorconfig
-/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.AssemblyInfoInputs.cache
-/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.AssemblyInfo.cs
-/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.csproj.CoreCompileInputs.cache
-/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.MvcApplicationPartsAssemblyInfo.cs
-/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.MvcApplicationPartsAssemblyInfo.cache
 /Users/test/Desktop/chat/ChatBackend/bin/Debug/net9.0/appsettings.Development.json
 /Users/test/Desktop/chat/ChatBackend/bin/Debug/net9.0/appsettings.json
 /Users/test/Desktop/chat/ChatBackend/bin/Debug/net9.0/ChatBackend.staticwebassets.endpoints.json
@@ -20,6 +13,14 @@
 /Users/test/Desktop/chat/ChatBackend/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/test/Desktop/chat/ChatBackend/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/test/Desktop/chat/ChatBackend/bin/Debug/net9.0/System.Net.WebSockets.WebSocketProtocol.dll
+/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.csproj.AssemblyReference.cache
+/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.AssemblyInfoInputs.cache
+/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.AssemblyInfo.cs
+/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/ChatBackend.sourcelink.json
 /Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/scopedcss/bundle/ChatBackend.styles.css
 /Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/staticwebassets.build.json
 /Users/test/Desktop/chat/ChatBackend/obj/Debug/net9.0/staticwebassets.development.json

@@ -1,0 +1,11 @@
+{
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "deploy": {
+      "dotnet": {
+        "version": "9.0.202"
+      }
+    }
+  }
+  
